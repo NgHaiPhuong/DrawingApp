@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085187006799",
+    "project_id": "demoloklok",
+    "storage_bucket": "demoloklok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085187006799:android:5c082df8c6d03d7447e53a",
+        "android_client_info": {
+          "package_name": "com.example.loklok_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTes8MaUkf2kdlTGC25IlnB3ln24dXhu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
